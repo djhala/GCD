@@ -1,4 +1,4 @@
-GCD
+README.md
 ===
 
 run_Analysis.R script consists of
